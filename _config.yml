@@ -1,5 +1,5 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
+title: Homepage
+description: Qiusheng Huang's homepage.
 author: Qiusheng Huang
 avatar: /me.JPG
 email: 1145673235h@gmail.com
@@ -32,12 +32,10 @@ exclude:
 twitter:
   username: ngzhio
   card: summary
-logo: logo.png
+logo: me.JPG
 social:
-  name: Shangzhi Huang
+  name: Qiusheng Huang
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://github.com/huangqiusheng
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
