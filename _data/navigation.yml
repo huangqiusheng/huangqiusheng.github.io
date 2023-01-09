@@ -6,6 +6,8 @@
 #   url: /categories/
 # - title: Tags
 #   url: /tags/
+- title: About Me
+  url: /about/
 - title: Research&Projects
   sublinks:
     - title: FAQ
