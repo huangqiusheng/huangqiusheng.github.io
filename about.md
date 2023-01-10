@@ -1,8 +1,10 @@
 ---
 layout: page
-# title: About Me!
+title: Introduction
 permalink: /about/
 ---
+### I am interested in computer vision and machine learning problems. Typically, I am working on 
+
 ## Education
 
 ### East China Normal University(ECNU), School of Communication and Electronic Engineering, [2019-2022]
@@ -10,7 +12,7 @@ permalink: /about/
 ### Hangzhou Dianzi University(HDU), Electronic Information School, [2015-2019]
 
 
-## paper
+## papers
 
 Bridging the Gap between Label-and Reference-based Synthesis in Multi-attribute Image-to-Image Translation
 Qiusheng Huang, Zhilin Zheng, Xueqi Hu, Li Sun, Qingli Li
@@ -32,7 +34,7 @@ NDIT: Noise-based Diverse Image-to-Image Translation of High-Resolution Face Edi
 Qiusheng Huang, Jianfei Guo, Xinyang Li, Zhiyuan Yang, Xiaohang Yang, Xing Gao, Yikang LI
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2023, underreview
 
-### Bold
+<!-- ### Bold
 
 **This is a context in Bold.**
 
@@ -149,4 +151,4 @@ CO~2~ is a kind of gas in the air.
 
 ## 操作项目
 
-- [ ] 我们来完成这项任务 @某人
+- [ ] 我们来完成这项任务 @某人 -->
