@@ -16,34 +16,34 @@ permalink: /about/
 
 - Bridging the Gap between Label-and Reference-based Synthesis in Multi-attribute Image-to-Image Translation
 
-Qiusheng Huang, Zhilin Zheng, Xueqi Hu, Li Sun, Qingli Li
+    Qiusheng Huang, Zhilin Zheng, Xueqi Hu, Li Sun, Qingli Li
 
-Proceedings of the IEEE/CVF International Conference on Computer Vision(ICCV), 2021
+    Proceedings of the IEEE/CVF International Conference on Computer Vision(ICCV), 2021
 
 
 - Style Transformer for Image Inversion and Editing
 
-Xueqi Hu, Qiusheng Huang, Zhengyi Shi, Siyuan Li, Changxin Gao, Li Sun, Qingli Li
+    Xueqi Hu, Qiusheng Huang, Zhengyi Shi, Siyuan Li, Changxin Gao, Li Sun, Qingli Li
 
-Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2022
+    Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2022
 
 - QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation
 
-Xueqi Hu, Xinyue Zhou, Qiusheng Huang, Zhengyi Shi, Li Sun, Qingli Li
+    Xueqi Hu, Xinyue Zhou, Qiusheng Huang, Zhengyi Shi, Li Sun, Qingli Li
 
-Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2022
+    Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2022
 
 - LSC-GAN: Latent Style Code Modeling for Continuous Image-to-image Translation
 
-Qiusheng Huang, Xueqi Hu, Li Sun, Qingli Li
+    Qiusheng Huang, Xueqi Hu, Li Sun, Qingli Li
 
-IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI), underreview
+    IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI), underreview
 
 - NDIT: Noise-based Diverse Image-to-Image Translation of High-Resolution Face Editing in 2&3D
 
-Qiusheng Huang, Jianfei Guo, Xinyang Li, Zhiyuan Yang, Xiaohang Yang, Xing Gao, Yikang LI
+    Qiusheng Huang, Jianfei Guo, Xinyang Li, Zhiyuan Yang, Xiaohang Yang, Xing Gao, Yikang LI
 
-Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2023, underreview
+    Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2023, underreview
 
 <!-- ### Bold
 
