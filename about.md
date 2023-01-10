@@ -14,12 +14,9 @@ permalink: /about/
 
 ## papers
 
-- Bridging the Gap between Label-and Reference-based Synthesis in Multi-attribute Image-to-Image Translation
-
-    Qiusheng Huang, Zhilin Zheng, Xueqi Hu, Li Sun, Qingli Li
-
+- Bridging the Gap between Label-and Reference-based Synthesis in Multi-attribute Image-to-Image Translation  
+    Qiusheng Huang, Zhilin Zheng, Xueqi Hu, Li Sun, Qingli Li  
     Proceedings of the IEEE/CVF International Conference on Computer Vision(ICCV), 2021
-
 
 - Style Transformer for Image Inversion and Editing
 
