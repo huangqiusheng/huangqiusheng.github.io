@@ -3,7 +3,7 @@ layout: page
 title: Introduction
 permalink: /about/
 ---
-### I am interested in computer vision and machine learning problems. Typically, I am working on 
+### Hi there! This is Qiusheng Huang. I am currently a full-time researcher at 3D Neural Rendering Group, Shanghai AI Lab. My research interests lie in <u> neural rendering </u>, 3D reconstruction, 2D/3D generation. In particular, I study categorical neural representations, Image to image translation, 2D/3D style transfer and editing, and diffusion model.
 
 ## Education
 
