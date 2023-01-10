@@ -10,7 +10,9 @@
   url: /about/
 - title: Research&Projects
   sublinks:
-    - title: FAQ
-      url: /faq/
-    - title: Docs
-      url: /docs/
+    - title: 3D reconstruction
+      url: /3DR/
+    - title: 3D Style Transfer 
+      url: /3DST/
+    - title: Face editing
+      url: /Face/
