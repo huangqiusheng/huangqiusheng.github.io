@@ -3,13 +3,15 @@ layout: page
 title: Introduction
 permalink: /about/
 ---
-### Hi there! This is Qiusheng Huang. I am currently a full-time researcher at 3D Neural Rendering Group, Shanghai AI Lab. My research interests lie in <u> neural rendering </u>, 3D reconstruction, 2D/3D generation. In particular, I study categorical neural representations, Image to image translation, 2D/3D style transfer and editing, and diffusion model.
+### Hi there! This is Qiusheng Huang. I am currently a full-time researcher at 3D Neural Rendering Group, Shanghai AI Lab. My research interests lie in <u> neural rendering </u>, <u>3D reconstruction</u>, <u>2D/3D generation</u>. In particular, I study categorical neural <u>representations</u>, <u>Image to image translation</u>, <u>2D/3D style transfer and editing</u>, and <u>diffusion model</u>.
+
+### Previously, I got my Master’s and Bachelor’s degree in Control Science and Engineering (Computer Vision and Pattern Recognition Direction) at Shanghai Jiao Tong University (SJTU). During my postgraduate, I joined the Institute of Image Processing and Pattern Recognition and worked with Prof. Jie Yang.
 
 ## Education
 
-### East China Normal University(ECNU), School of Communication and Electronic Engineering, [2019-2022]
+### 2019-2022 M.S. in Communication and Electronic Engineering, East China Normal University(ECNU)
 
-### Hangzhou Dianzi University(HDU), Electronic Information School, [2015-2019]
+### 2015-2019 B.S. in Electronic Information and Automation, Hangzhou Dianzi University(HDU)
 
 
 ## papers
