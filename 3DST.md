@@ -13,6 +13,10 @@ Face attributes editing (eyeglass)：
       <source src="/s10.mp4" type="video/mp4">
 </videos>
 
-<video width="600" height="300" controls >
-      <source src="https://drive.google.com/file/d/1RboFzZttth2SX4IE0BksyygRcZHw8QRQ/view?usp=sharing" type="video/mp4">
-</videos>
+<iframe 
+    height=300 
+    width=600 
+    src="https://drive.google.com/file/d/1RboFzZttth2SX4IE0BksyygRcZHw8QRQ/view?usp=sharing" 
+    frameborder=0 
+    allowfullscreen>
+</iframe>
