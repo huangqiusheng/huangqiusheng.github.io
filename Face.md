@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Docs
+title: Face editing
 permalink: /Face/
 ---
 ## Abstract
