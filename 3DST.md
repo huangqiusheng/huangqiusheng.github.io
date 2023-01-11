@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-permalink: /faq/
+permalink: /3DST/
 ---
 
 An FAQ page.
