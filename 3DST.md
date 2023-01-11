@@ -16,7 +16,7 @@ Face attributes editing (eyeglass)：
 <iframe 
     height=300 
     width=600 
-    src="https://drive.google.com/file/d/1RboFzZttth2SX4IE0BksyygRcZHw8QRQ/view?usp=sharing" 
+    src="https://drive.google.com/file/d/1RboFzZttth2SX4IE0BksyygRcZHw8QRQ/view" 
     frameborder=0 
     allowfullscreen>
 </iframe>
