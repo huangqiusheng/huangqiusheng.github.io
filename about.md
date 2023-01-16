@@ -7,15 +7,15 @@ permalink: /about/
 
 ## Education
 
-### 2019-2022 M.S. in Communication and Electronic Engineering, East China Normal University(ECNU)
+### 2019-2022    M.S. in Communication and Electronic Engineering, East China Normal University(ECNU)
 
 ### 2015-2019 B.S. in Electronic Information and Automation, Hangzhou Dianzi University(HDU)
 
 ## Work experiments
 
-### 2022.04-  researcher of computer vision()  Shanghai AI Lab  duty:
+### 2022.04-  algorithm researcher, Shanghai AI Lab  duty:
 
-## papers
+## Papers
 
 - Bridging the Gap between Label-and Reference-based Synthesis in Multi-attribute Image-to-Image Translation  
     Qiusheng Huang, Zhilin Zheng, Xueqi Hu, Li Sun, Qingli Li  
