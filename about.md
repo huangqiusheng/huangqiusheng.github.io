@@ -13,7 +13,7 @@ permalink: /about/
 
 ## Work experiments
 
-### 2022.04-  algorithm researcher, Shanghai AI Lab  duty:
+### 2022.04-  algorithm researcher(3DNR, Autonomous Driving Group), Shanghai AI Lab  duty:
 
 ## Papers
 
