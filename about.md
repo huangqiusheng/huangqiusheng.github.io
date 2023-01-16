@@ -7,7 +7,7 @@ permalink: /about/
 
 ## Education
 
-### 2019-2022    M.S. in Communication and Electronic Engineering, East China Normal University(ECNU)
+2019-2022  M.S. in Communication and Electronic Engineering,   East China Normal University(ECNU)
 
 ### 2015-2019 B.S. in Electronic Information and Automation, Hangzhou Dianzi University(HDU)
 
