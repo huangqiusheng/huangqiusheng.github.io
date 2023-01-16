@@ -11,6 +11,9 @@ permalink: /about/
 
 ### 2015-2019 B.S. in Electronic Information and Automation, Hangzhou Dianzi University(HDU)
 
+## Work experiments
+
+### 2022.04-  researcher of computer vision()  Shanghai AI Lab  duty:
 
 ## papers
 
