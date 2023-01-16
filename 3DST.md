@@ -4,7 +4,7 @@ title: 3D style transform
 permalink: /3DST/
 ---
 ## Overview
-Diverse Image-to-Image Translation (I2IT), characterized with high resolution, diversity, and precise preservation, is amazing but challenging. Traditional methods can generate diverse results of attributes but with limited resolution, while most recent methods exploit pre-trained StyleGAN to achieve high-resolution but have limitations on attribute diversity due to the complicated latent space of the generator. To improve the attribute diversity of StyleGAN-based methods, in this paper, we propose a framework to locate regions corresponding to the same attributes in the latent space and  learn their distributions of diverse directions. In order to locate the diverse results of traditional methods in the latent space of StyleGAN, we first obtain their respective  codes  through inverse mapping. Based on just a few pairs of such samples and codes, we  train a lightweight network to capture the target distribution in the latent space, and propose different pipelines to further refine the results. Experiments in 3D and 2D verify its superiority  in diversity, resolution, and preservation of irrelevant areas. In addition, the proposed pipelines permit to generate segmentation masks of the bangs category for face datasets.
+In general, reconstruction is a violent overfitting behavior. But we try to make the reconstruction model understand semantic information, and the same style can be represented by generalization transfer. We finish it by using the CLIP model.
 
 ## Results
 Reconstruction dirctly (SRN datasets)：
@@ -13,10 +13,12 @@ Reconstruction dirctly (SRN datasets)：
       <source src="/s10.mp4" type="video/mp4">
 </videos>
 
+Stylized (painting):
 <video width="600" height="300" controls >
       <source src="/half10.mp4" type="video/mp4">
 </videos>
 
+Stylized (complete)
 <video width="600" height="300" controls >
       <source src="/full10.mp4" type="video/mp4">
 </videos>

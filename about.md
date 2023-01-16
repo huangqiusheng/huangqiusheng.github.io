@@ -7,13 +7,19 @@ permalink: /about/
 
 ## Education
 
-2019-2022  M.S. in Communication and Electronic Engineering,   East China Normal University(ECNU)
+2019-2022  
+M.S. in Communication and Electronic Engineering,  
+East China Normal University(ECNU)
 
-### 2015-2019 B.S. in Electronic Information and Automation, Hangzhou Dianzi University(HDU)
+2015-2019  
+B.S. in Electronic Information and Automation,  
+Hangzhou Dianzi University(HDU)
 
 ## Work experience
 
-### 2022.04-  algorithm researcher(3DNR, Autonomous Driving Group), Shanghai AI Lab  duty:
+2022.04-  
+algorithm researcher(3DNR, Autonomous Driving Group),  
+Shanghai AI Lab 
 
 ## Papers
 
