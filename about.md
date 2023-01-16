@@ -11,7 +11,7 @@ permalink: /about/
 
 ### 2015-2019 B.S. in Electronic Information and Automation, Hangzhou Dianzi University(HDU)
 
-## Work experiments
+## Work experience
 
 ### 2022.04-  algorithm researcher(3DNR, Autonomous Driving Group), Shanghai AI Lab  duty:
 
