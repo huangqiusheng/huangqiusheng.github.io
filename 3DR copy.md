@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3D reconstruction (for Autonomous Driving Scenario)
+title: 3D reconstruction (CaRecon)
 permalink: /3DR/
 ---
 

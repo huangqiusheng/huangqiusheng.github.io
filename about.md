@@ -41,7 +41,11 @@ Shanghai AI Lab
 
 - NDIT: Noise-based Diverse Image-to-Image Translation of High-Resolution Face Editing in 2&3D  
     Qiusheng Huang, Jianfei Guo, Xinyang Li, Zhiyuan Yang, Xiaohang Yang, Xing Gao, Yikang LI  
-    Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2023, underreview
+    Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(ICCV), 2023, underreview
+
+- CaRecon: Robust and High-Fidelity 3D Categorical Reconstruction for Objects in the wild
+    Qiusheng Huang, Jianfei Guo, Xinyang Li, Nianchen Deng, Xiaohang Yang, Botian Shi, Yikang LI, Yu Qiao  
+    Thirty-seventh Conference on Neural Information Processing Systems(NeuIPS 2023), underreview
 
 <!-- ### Bold
 
