@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 3D reconstruction (CaRecon)
-permalink: /3DR/
+permalink: /CaRecon/
 ---
 
 ## Overview
