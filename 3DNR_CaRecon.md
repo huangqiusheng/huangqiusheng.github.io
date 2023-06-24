@@ -14,14 +14,14 @@ We evaluate our approach on the Multi-View Major Car (MVMC) dataset, which conta
 
 <video width="600" height="300" controls >
       <source src="/nuScenes.mp4" type="video/mp4">
-</videos>
+</video>
 
 CO3D(origin):
 <video width="600" height="300" controls >
       <source src="/co3d.mp4" type="video/mp4">
-</videos>
+</video>
 
 CO3D(unsupervised pose alignment reconstruction):
 <video width="600" height="300" controls >
       <source src="/co3d_2.mp4" type="video/mp4">
-</videos>
+</video>
