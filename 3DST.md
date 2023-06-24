@@ -18,7 +18,10 @@ Stylized (painting):
       <source src="/half10.mp4" type="video/mp4">
 </video>
 
-Stylized (complete)
+Stylized (complete):
 <video width="600" height="300" controls >
       <source src="/full10.mp4" type="video/mp4">
 </video>
+
+Based on a fixed mesh:
+![gif image](/test.gif)
