@@ -9,16 +9,16 @@ In general, reconstruction is a violent overfitting behavior. But we try to make
 ## Results
 Reconstruction dirctly (SRN datasets)：
 
-<videos width="600" height="300" controls >
+<video width="600" height="300" controls >
       <source src="/s10.mp4" type="video/mp4">
-</videos>
+</video>
 
 Stylized (painting):
-<videos width="600" height="300" controls >
+<video width="600" height="300" controls >
       <source src="/half10.mp4" type="video/mp4">
-</videos>
+</video>
 
 Stylized (complete)
-<videos width="600" height="300" controls >
+<video width="600" height="300" controls >
       <source src="/full10.mp4" type="video/mp4">
-</videos>
+</video>
