@@ -8,10 +8,12 @@
 #   url: /tags/
 - title: About Me
   url: /about/
-- title: Research&Projects
+- title: Recent Research
   sublinks:
     - title: 3D reconstruction
       url: /3DR/
+    - title: 3D reconstruction(CaRecon)
+      url: /CaRecon/
     - title: 3D Style Transfer 
       url: /3DST/
     - title: Face editing

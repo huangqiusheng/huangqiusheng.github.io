@@ -3,7 +3,8 @@ layout: page
 title: Introduction
 permalink: /about/
 ---
-### Hi there! This is Qiusheng Huang. I am currently a full-time researcher at 3D Neural Rendering Group, Shanghai AI Lab. My research interests lie in <u> neural rendering </u>, <u>3D reconstruction</u>, <u>2D/3D generation</u>. In particular, I study categorical neural <u>representations</u>, <u>Image to image translation</u>, <u>2D/3D style transfer and editing</u>, and <u>diffusion model</u>.
+### Hi there! This is Qiusheng Huang. I am currently a full-time researcher at 3D Neural Rendering Group, Shanghai AI Lab.  In particular, I study categorical neural <u>representations</u>, <u>Image to image translation</u>, <u>2D/3D style transfer and editing</u>, and <u>diffusion model</u>. While these are my primary areas of focus, I am also interested in other deep learning and machine learning-based fields such as <u> AI for Science </u> and <u> interdisciplinary studies </u>, among others.
+<!-- My research interests lie in <u> neural rendering </u>, <u>2D/3D generation and reconstruction</u>. -->
 
 ## Education
 
@@ -41,7 +42,11 @@ Shanghai AI Lab
 
 - NDIT: Noise-based Diverse Image-to-Image Translation of High-Resolution Face Editing in 2&3D  
     Qiusheng Huang, Jianfei Guo, Xinyang Li, Zhiyuan Yang, Xiaohang Yang, Xing Gao, Yikang LI  
-    Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2023, underreview
+    Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(ICCV), 2023, underreview
+
+- CaRecon: Robust and High-Fidelity 3D Categorical Reconstruction for Objects in the wild
+    Qiusheng Huang, Jianfei Guo, Xinyang Li, Nianchen Deng, Xiaohang Yang, Botian Shi, Yikang LI, Yu Qiao  
+    Thirty-seventh Conference on Neural Information Processing Systems(NeuIPS 2023), underreview
 
 <!-- ### Bold
 

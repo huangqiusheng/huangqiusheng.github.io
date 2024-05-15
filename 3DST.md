@@ -7,18 +7,22 @@ permalink: /3DST/
 In general, reconstruction is a violent overfitting behavior. But we try to make the reconstruction model understand semantic information, and the same style can be represented by generalization transfer. We finish it by using the CLIP model.
 
 ## Results
+
+Based on a fixed mesh:
+![gif image](/test.gif)
+
 Reconstruction dirctly (SRN datasets)：
 
 <video width="600" height="300" controls >
       <source src="/s10.mp4" type="video/mp4">
-</videos>
+</video>
 
 Stylized (painting):
 <video width="600" height="300" controls >
       <source src="/half10.mp4" type="video/mp4">
-</videos>
+</video>
 
-Stylized (complete)
+Stylized (complete):
 <video width="600" height="300" controls >
       <source src="/full10.mp4" type="video/mp4">
-</videos>
+</video>
